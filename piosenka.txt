@@ -6,15 +6,7 @@ zwrotka2.txt
 
 refren2.txt
 
-I watched with glee
-While your kings and queens
-Fought for ten decades
-For the gods they made
-
-I shouted out
-Who killed the Kennedys?
-When after all
-It was you and me
+zwrotka3.txt
 
 Let me please introduce myself
 I'm a man of wealth and taste

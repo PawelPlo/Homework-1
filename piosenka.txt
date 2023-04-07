@@ -8,15 +8,9 @@ refren2.txt
 
 zwrotka3.txt
 
-Pleased to meet you
-Hope you guessed my name, oh yeah
-But what's puzzling you
-Is the nature of my game, oh yeah, get down, baby
+refren3.txt
 
-Pleased to meet you
-Hope you guessed my name, oh yeah
-But what's confusing you
-Is just the nature of my game
+refren4.txt
 
 Just as every cop is a criminal
 And all the sinners saints

@@ -4,11 +4,7 @@ refren1.txt
 
 zwrotka2.txt
 
-
-Pleased to meet you
-Hope you guess my name, oh yeah
-Ah, what's puzzling you
-Is the nature of my game, oh yeah
+refren2.txt
 
 I watched with glee
 While your kings and queens
